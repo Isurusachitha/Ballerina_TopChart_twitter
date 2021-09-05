@@ -30,7 +30,7 @@ When we send more than one tweets in one run, its shaws an error message saying 
 
 
 ## Why we hate ballerina-
-- There were no much learning resourses about Ballerina so we got confused when starting the learning it for the first time.
+- There were no much learning resourses about Ballerina so we got confused when started learning it for the first time.
 - Much appreciated if ballerina is also great in front-end/ui programming.
 	
 	
