@@ -3,7 +3,7 @@ In our application is a music application which will send tweets about the news 
 
 ps: The following text and this code was originally written in 2017 during the Ballerina Hackathon. Fixed several Grammer Errors;
 
-
+- - - -
 
 ## Team Elementry
 The team was consisted of Isuru Sachitha, Kasun Kavishka, Dilshan Naveen and Navin Thamindu
