@@ -22,15 +22,15 @@ When we send more than one tweets in one run, its shaws an error message saying 
 
 
 ## Why we love ballerina
-	* It seems that ballerina is a very good language. 
-	* It felt like an all-in-one and a complete lang. 
-	* It can do magic when it comes to connecting two endpoints together. 
-	* In our point of view ballerina is awesome for backend
+-It seems that ballerina is a very good language. 
+-It felt like an all-in-one and a complete lang. 
+-It can do magic when it comes to connecting two endpoints together. 
+-In our point of view ballerina is awesome for backend
 
 
 
 ## Why we hate ballerina-
-	* There were no much learning resourses about Ballerina so we got confused when starting the learning it for the first time.
-	* Much appreciated if ballerina is also great in front-end/ui programming.
+-There were no much learning resourses about Ballerina so we got confused when starting the learning it for the first time.
+-Much appreciated if ballerina is also great in front-end/ui programming.
 	
 	
